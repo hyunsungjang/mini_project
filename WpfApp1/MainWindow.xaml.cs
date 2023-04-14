@@ -27,7 +27,7 @@ namespace WpfApp1
 
         private void Button_Click(object sender, RoutedEventArgs e)
         {
-            // tb1 에 문자열 출력
+            // tb1 에 문자열 출력b
             tb1.Text = "Hello World!";
         }
     }
